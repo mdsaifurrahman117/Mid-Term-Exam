@@ -135,7 +135,7 @@
 }
 .creations-image {
      display: grid;
-     grid-template-rows: 465px;
+     grid-template-rows: 465px 465px;
      grid-template-columns: repeat(4, 1fr);
      gap: 15px;
 }
